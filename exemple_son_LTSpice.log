@@ -1,0 +1,21 @@
+Circuit: * C:\Users\schmi\Documents\Ecole\ENIB\2ème année\S4P\Electronique S4P\Projet vuvuzela\Projet-Vuvuzela\exemple_son_LTSpice.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat May 06 20:13:26 2023
+Total elapsed time: 3.740 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 874560
+traniter = 874556
+tranpoints = 437279
+accept = 437279
+rejected = 0
+matrix size = 9
+fillins = 1
+solver = Normal
+Matrix Compiler1: 368 bytes object code size  0.1/0.1/[0.0]
+Matrix Compiler2: 729 bytes object code size  0.1/0.1/[0.1]
+
