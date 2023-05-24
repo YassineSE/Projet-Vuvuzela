@@ -1,16 +1,17 @@
 # Projet-Vuvuzela
-Débruitage de Vuvuzela
+Débruitage de Vuvuzela:
 
-## Initialiser le git
-* git init
-* git remote add origin https://github.com/YassineSE/Projet-Vuvuzela/
-* git branch -M main
+Lors de la coupe du Monde de Football 2010, les téléspectateurs du monde entier ont pu découvrir un instrument de musique d’Afrique du Sud : le Vuvuzela. Passé la phase d’étonnement, le son continu généré par cet instrument est rapidement devenu gênant lors de la diffusion des matchs ([youtube](https://www.youtube.com/watch?v=bKCIFXqhLzo)). Dans ce projet, nous allons mettre en place un filtre "anti-vuvuzela" pour atténuer les sonorités de cet instrument.
 
-## Faire un pull
-* git pull origin main
+# Compte-Rendu:
+Le fichier "Debruitage_de_Vuvuzela.ipynb" est le fichier du compte rendu de notre projet.
 
-## Faire un push
-* git add .
-* git commit -m "message message "
-* git push origin main
-* TEst
+# Simulation numérique d'un filtre rejecteur:
+Dans le fichier "Filtrage_Numérique.ipynb", une étude de filtre rejecteur numérique avec scipy est réalisée pour determiner le facteur de qualité des filtres. La même étude est aussi présente dans le compte rendu.
+
+# Ltspice:
+Le résultat des simulations avec **LTSpice** est aussi dans le compte rendu. Les fichiers de simulations sont dans le dossier **./ltspice**
+
+# Contributeurs:
+* SAHEB ETTABAA Yassine
+* SCHMITT Marion
